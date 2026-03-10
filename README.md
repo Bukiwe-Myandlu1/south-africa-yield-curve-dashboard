@@ -3,7 +3,7 @@
 This project analyzes South African government bond yields (5Y, 10Y, 20Y) and visualizes yield curve dynamics using Python and Power BI.
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_preview.jpg)
+![Dashboard Preview](SA_Bond_Yield_Analytics/visuals/dashboard_preview.jpg)
 
 ## Key Features
 - Interactive date filtering
